@@ -1,0 +1,14 @@
+{  
+  "Configurations":[  
+    {  
+      "Host":"localhost",
+      "Username":"meres",
+      "Password":"jelszo"
+    },
+    {  
+      "Host":"192.168.183.145",
+      "Username":"meres",
+      "Password":"jelszo"
+    }
+  ]
+}
